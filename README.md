@@ -1,15 +1,5 @@
-[![Deploy](https://cdn.wedeploy.com/images/deploy.svg)](https://console.wedeploy.com/deploy?repo=https://github.com/wedeploy-examples/elixir-example)
+# WeDeploy Elixir Tutorial
 
-# Elixir Lang with Plug
+This template will help you through the process of deploying a Elixir project on WeDeploy.
 
-An example of [Elixir](https://elixir-lang.org/) on [WeDeploy](https://wedeploy.com/).
-
-## Instructions
-
-1. Install the [WeDeploy CLI](https://wedeploy.com/docs/intro/using-the-command-line/).
-2. Clone this repository.
-3. Open the project with your command line and run `we deploy -p yourproject`.
-
-## License
-
-[BSD-3-Clause](./LICENSE.md), © Liferay, Inc.
+> [Visit the tutorial to learn how to start using Elixir with WeDeploy.](https://wedeploy.com/tutorials/elixir/)
